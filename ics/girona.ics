@@ -1,0 +1,116 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Vacacionable//Festivos//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Festivos 2027 Girona
+X-WR-TIMEZONE:Europe/Madrid
+BEGIN:VEVENT
+UID:festivos-girona-20270101-0@vacacionable.aarongomezvera.es
+DTSTAMP:20261031T094919Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:🎉 Año Nuevo
+DESCRIPTION:Festivo según Vacacionable (vacacionable.iaencrudo.es)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festivos-girona-20270106-1@vacacionable.aarongomezvera.es
+DTSTAMP:20261031T094919Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:🎉 Epifanía del Señor
+DESCRIPTION:Festivo según Vacacionable (vacacionable.iaencrudo.es)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festivos-girona-20270326-2@vacacionable.aarongomezvera.es
+DTSTAMP:20261031T094919Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:🎉 Viernes Santo
+DESCRIPTION:Festivo según Vacacionable (vacacionable.iaencrudo.es)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festivos-girona-20270329-3@vacacionable.aarongomezvera.es
+DTSTAMP:20261031T094919Z
+DTSTART;VALUE=DATE:20270329
+DTEND;VALUE=DATE:20270330
+SUMMARY:🎉 Lunes de Pascua
+DESCRIPTION:Festivo según Vacacionable (vacacionable.iaencrudo.es)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festivos-girona-20270501-4@vacacionable.aarongomezvera.es
+DTSTAMP:20261031T094919Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:🎉 Fiesta del Trabajo
+DESCRIPTION:Festivo según Vacacionable (vacacionable.iaencrudo.es)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festivos-girona-20270624-5@vacacionable.aarongomezvera.es
+DTSTAMP:20261031T094919Z
+DTSTART;VALUE=DATE:20270624
+DTEND;VALUE=DATE:20270625
+SUMMARY:🎉 Día de San Juan
+DESCRIPTION:Festivo según Vacacionable (vacacionable.iaencrudo.es)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festivos-girona-20270911-6@vacacionable.aarongomezvera.es
+DTSTAMP:20261031T094919Z
+DTSTART;VALUE=DATE:20270911
+DTEND;VALUE=DATE:20270912
+SUMMARY:🎉 Fiesta Nacional de Cataluña
+DESCRIPTION:Festivo según Vacacionable (vacacionable.iaencrudo.es)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festivos-girona-20271012-7@vacacionable.aarongomezvera.es
+DTSTAMP:20261031T094919Z
+DTSTART;VALUE=DATE:20271012
+DTEND;VALUE=DATE:20271013
+SUMMARY:🎉 Fiesta Nacional de España
+DESCRIPTION:Festivo según Vacacionable (vacacionable.iaencrudo.es)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festivos-girona-20271101-8@vacacionable.aarongomezvera.es
+DTSTAMP:20261031T094919Z
+DTSTART;VALUE=DATE:20271101
+DTEND;VALUE=DATE:20271102
+SUMMARY:🎉 Todos los Santos
+DESCRIPTION:Festivo según Vacacionable (vacacionable.iaencrudo.es)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festivos-girona-20271206-9@vacacionable.aarongomezvera.es
+DTSTAMP:20261031T094919Z
+DTSTART;VALUE=DATE:20271206
+DTEND;VALUE=DATE:20271207
+SUMMARY:🎉 Día de la Constitución Española
+DESCRIPTION:Festivo según Vacacionable (vacacionable.iaencrudo.es)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festivos-girona-20271208-10@vacacionable.aarongomezvera.es
+DTSTAMP:20261031T094919Z
+DTSTART;VALUE=DATE:20271208
+DTEND;VALUE=DATE:20271209
+SUMMARY:🎉 Inmaculada Concepción
+DESCRIPTION:Festivo según Vacacionable (vacacionable.iaencrudo.es)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festivos-girona-20271225-11@vacacionable.aarongomezvera.es
+DTSTAMP:20261031T094919Z
+DTSTART;VALUE=DATE:20271225
+DTEND;VALUE=DATE:20271226
+SUMMARY:🎉 Natividad del Señor
+DESCRIPTION:Festivo según Vacacionable (vacacionable.iaencrudo.es)
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
