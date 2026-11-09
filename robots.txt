@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://vacacionable.aarongomezvera.es/sitemap-antiguo.xml
